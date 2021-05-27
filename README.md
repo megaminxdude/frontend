@@ -2,7 +2,7 @@
 
 ## Project setup
 ```
-npm install @auth0/auth0-spa-js
+npm install
 ```
 
 ### Edit auth_config.json
