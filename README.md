@@ -5,6 +5,13 @@
 npm install
 ```
 
+### Edit auth_config.json
+```
+make an auth0 account https://auth0.com/
+make an application > settings > find your Domain and Client Id
+edit your_domain and your_clientId for your app
+```
+
 ### Compiles and hot-reloads for development
 ```
 npm run serve
